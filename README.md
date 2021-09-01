@@ -2,23 +2,35 @@
 
 Primary Languages:
 - JavaScript
-  - Node
-  - React
-  - Express
+  - NodeJS
+  - ReactJS
+     - Redux
+     - NextJS
+  - ExpressJS
+- TypeScript
 - Java
 - Python
 
 Mobile:
 - Flutter + Dart
+- React Native
 
 Source Control:
 - Git + GitHub
 
-Web:
-- HTML + CSS + JavaScript
+Other:
+- HTML
+- CSS
+  - SCSS 
 
 Database:
 - MongoDB
+  - Mongoose
+- Redis Cache
+
+DevOps (some):
+- Docker
+- Kubernetes
 
 <!---
 Azam999/Azam999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
