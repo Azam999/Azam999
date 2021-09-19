@@ -26,9 +26,8 @@ Other:
 Database:
 - MongoDB
   - Mongoose
-- Redis Cache
 
-DevOps (some):
+DevOps (a little bit):
 - Docker
 - Kubernetes
 
