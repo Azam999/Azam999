@@ -31,4 +31,7 @@ DevOps (a little bit):
 - Docker
 - Kubernetes
 
+Cloud
+- Azure
+
 ![Azam999's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam999&count_private=true&show_icons=true&theme=dark)
