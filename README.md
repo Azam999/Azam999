@@ -44,4 +44,4 @@
 
 <br />
 
-![Azam999's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam999&count_private=true&show_icons=true&theme=dark)
+![Azam999's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam999&count_private=true&show_icons=true&bg_color=45,00a2ff,00ff84)
