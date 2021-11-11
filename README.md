@@ -3,7 +3,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 ## Languages and Libraries/Frameworks
-### Sorted from most used to least used
 <div style="display: flex; flex-direction: row">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
@@ -44,4 +43,7 @@
 
 <br />
 
-![Azam999's GitHub stats](https://github-readme-stats.vercel.app/api?username=azam999&count_private=true&show_icons=true&bg_color=45,00a2ff,00ff84)
+<div align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=azam999&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=azam999&count_private=true&show_icons=true&bg_color=45,00a2ff,00ff84" />
+</div>
