@@ -6,7 +6,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
-#### I like coding 🖥, reading 📕, and researching investments 💵
+#### I like coding 🖥, reading 📕, and investing 💵
 
 <div style="display: flex; flex-direction: row">
   I mainly code in
